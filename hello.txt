@@ -1,1 +1,2 @@
 this is beginning git 
+i am learning version control now
