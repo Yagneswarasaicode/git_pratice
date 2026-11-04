@@ -1,0 +1,42 @@
+[33mcommit cc3576c05b9614090e37fe9d53a7296a5ea8b531[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 208ea50 e0485eb
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 15:21:57 2026 +0530
+
+    Resolve merge conflict
+
+[33mcommit e0485eb2de2095f025609f190ea6d3d13b0e9188[m[33m ([m[1;32mfeature[m[33m)[m
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 15:16:28 2026 +0530
+
+    addred new feature
+
+[33mcommit 208ea509ecd9fb2a1e4e88e108373b2d9924034d[m[33m ([m[1;32mswitch[m[33m)[m
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 15:09:42 2026 +0530
+
+    Add team message
+
+[33mcommit b890ccdd56fca3d1fabe48c92f7408c66e8827ba[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 14:45:05 2026 +0530
+
+    Add login feature
+
+[33mcommit 3518f7b2cae7d70045bb77ada379a8df5b7b8839[m
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 14:22:54 2026 +0530
+
+    Add feature
+
+[33mcommit ad8b9f7f6215ccbb6a6a3dc3b98c3453f81fd757[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 11:43:55 2026 +0530
+
+    Update hello message
+
+[33mcommit 57bb79ef70a1e37e762a89746f476f6f82745f60[m
+Author: yagnesh <yagneswarasaiganteda@gmail.com>
+Date:   Thu Oct 1 11:33:32 2026 +0530
+
+    add the file
